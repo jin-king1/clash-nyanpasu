@@ -10,7 +10,7 @@
     "filesize": "11.0.2",
     "p-retry": "7.0.0",
     "semver": "7.7.2",
-    "zod": "4.1.5"
+    "zod": "4.1.8"
   },
   "devDependencies": {
     "@octokit/types": "14.1.0",
@@ -24,7 +24,7 @@
     "picocolors": "1.1.1",
     "tar": "7.4.3",
     "telegram": "2.26.22",
-    "undici": "7.15.0",
+    "undici": "7.16.0",
     "yargs": "18.0.0"
   }
 }
